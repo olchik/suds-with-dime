@@ -1,0 +1,12 @@
+*.*~
+*.bak
+*.dia.autosave
+*.log
+*.orig
+*.pyc
+*.swo
+*.swp
+*.vim
+*.xls
+.project
+.pydevproject
